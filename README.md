@@ -1,4 +1,4 @@
-# 📚 NexusAI RAG System
+# 📚 Advanced-RAG-Multi-Document-QA-System
 
 A simple Retrieval-Augmented Generation (RAG) application built with **LangChain**, **Google Gemini**, and **Streamlit**. It allows users to upload PDF files and ask questions about their documents.
 
